@@ -1,4 +1,4 @@
-package com.reactivestreams;
+package com.reactivestreams.util;
 
 import com.reactivestreams.model.Greeting;
 import com.reactivestreams.subscriber.GreetingSubscriber;
@@ -13,6 +13,7 @@ import java.util.concurrent.SubmissionPublisher;
 
 /*
 This class helps to send messages on Spring boot start. You can also use ReactiveStreamsApplicationTests test class
+See https://www.baeldung.com/running-setup-logic-on-startup-in-spring for more information
 */
 
 
