@@ -1,4 +1,4 @@
-package com.reactivestreams.util;
+package com.reactivestreams.config;
 
 import com.reactivestreams.model.Greeting;
 import com.reactivestreams.subscriber.GreetingSubscriber;
